@@ -656,6 +656,20 @@ hr {
 	}
 
 
+	#portfolio{
+		padding-left: 50px;
+		
+	}
+	
+
+
+	@media screen and (min-width: 600px) {
+		
+		#portfolio{
+			display: flex;
+
+		}
+	}
 
 
 
